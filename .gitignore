@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.idea
+
 # C extensions
 *.so
 
@@ -168,4 +170,8 @@ cython_debug/
 #.idea/
 
 # PyPI configuration file
+<<<<<<< HEAD
 .pypirc
+=======
+.pypirc
+>>>>>>> master
